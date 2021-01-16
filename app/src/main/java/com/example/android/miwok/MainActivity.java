@@ -19,6 +19,5 @@ public class MainActivity extends AppCompatActivity {
             Intent i = new Intent(this, NumbersActivity.class);
             startActivity(i);
         }
-
     }
 }
